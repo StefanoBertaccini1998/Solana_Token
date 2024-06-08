@@ -1,0 +1,12 @@
+SPL_INIT
+Mint: 9CuiRpWARKaHV6uZctieKD7VpRAo3EZDxMnv7HvpH4Vd
+
+SPL_MINT
+Associated Token Account:  9RfWDL8niKYkbKc7W8Lff6q3DXW8CM6FkfrVHvt6o6RU
+Minted 10000000 to 9RfWDL8niKYkbKc7W8Lff6q3DXW8CM6FkfrVHvt6o6RU
+
+SPL_TRANSFER
+To:  Gq8W6dkydhRMpze8Y5hZS2bTA8TMHuNKw42UR8HfPUZJ
+Associated Token Account:  EqpGHdLmtEvRsdZ7Lq2BaNMLAQcieVSxtqbG4NsfmGKs
+Amount in ATA:  0
+Transferred 1000000 from 9RfWDL8niKYkbKc7W8Lff6q3DXW8CM6FkfrVHvt6o6RU to EqpGHdLmtEvRsdZ7Lq2BaNMLAQcieVSxtqbG4NsfmGKs
